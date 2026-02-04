@@ -1,0 +1,114 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<font face="verdana, Sans-serif">
+<head>
+   <style>
+       .indent-block {
+           padding-left: 2em; /* indentation for blocks */
+       }
+   </style>
+  <title>Conor Houghton</title>
+   <link rel="icon"  type="image/x-icon" href="https://conorhoughton.github.io/small_star.ico?">
+</head>
+
+
+<body  bgcolor=white link="slategrey" vlink="darkslategrey" alink="darkslategrey">
+
+<table>
+  <tbody>
+    <tr>
+      <td bgcolor="slategrey" width="30">&nbsp;</td>
+      
+      <td bgcolor="darkslategrey" width="1">&nbsp;</td>
+      <td bgcolor=white width="10">&nbsp;</td>
+
+     <td width="15"> 
+<td>
+  <h1 style="color: darkslategrey">Conor Houghton</h1>
+  <table>
+    <tbody>
+      <tr>
+	<td><img src="headshot.jpg" type="image/jpeg" style="max-width:200px;" alt="Conor Houghton" /></td>
+	<td width="30"></td>
+	<td>
+<p><b>Contact</b></p>
+<blockquote>
+<a href="mailto:conor.houghton@bristol.ac.uk">conor.houghton@bristol.ac.uk</a><p>    
+School of Engineering Mathematics and Technology<br> 
+University of Bristol<br> 
+Michael Ventris Building<br>
+Woodland Road<br>
+Bristol<br>
+BS8 1UB<br>
+England<p>
+<a href="https://research-information.bris.ac.uk/en/persons/conor-houghton">official home page</a>.
+</p>
+</blockquote>
+	</td>
+    </tbody>
+  </table>
+  <p><br></p>
+  <a href="papers"><b>Papers</b></a><br>
+  <p><br></p>
+  <p><a href="./old.html"><b>Old news</b></a><br>
+  <p><br></p>
+  <p><b>The latest news!</b></p>
+      <div id="include_2025-06-08"></div>
+  <script>
+    fetch("posts/2025-06-08_content.html")
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById("include_2025-06-08").innerHTML = data;
+        })
+    .catch(error => console.error("Error loading file:", error));
+  </script>
+  <hr>
+    <div id="include_2025-04-10"></div>
+  <script>
+    fetch("posts/2025-04-10_content.html")
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById("include_2025-04-10").innerHTML = data;
+        })
+    .catch(error => console.error("Error loading file:", error));
+  </script>
+  <hr>
+  <div id="include_2025-04-01"></div>
+  <script>
+    fetch("posts/2025-04-01_content.html")
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById("include_2025-04-01").innerHTML = data;
+        })
+    .catch(error => console.error("Error loading file:", error));
+  </script>
+  <hr>
+  <div id="include_2025-03-21"></div>
+  <script>
+    fetch("posts/2025-03-21_content.html")
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById("include_2025-03-21").innerHTML = data;
+        })
+    .catch(error => console.error("Error loading file:", error));
+  </script>
+  <hr>
+  <div id="include_2025-02-26"></div>
+  <script>
+    fetch("posts/2025-02-26_content.html")
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById("include_2025-02-26").innerHTML = data;
+        })
+    .catch(error => console.error("Error loading file:", error));
+  </script>
+<p><br></p>
+</td>
+  </tbody>
+</table>
+</body>
+</html>
+
+
+
+
