@@ -1,0 +1,88 @@
+*** Title: Is consciousness a story we tell ourselves? Internal language and consciousness after chain of thought reasoning.}
+
+Conor Houghton
+
+Associate Professor
+School of Engineering Mathematics and Technology
+University of Bristol
+BS8 1UB, Bristol
+
+conor.houghton@bristol.ac.uk
+conorhoughton.github.io/papers
+
+*** Description, scope, and relevance
+
+Consciousness may arise from, or be structured by, our ability to
+access and reason about internal representations through the internal
+use of language. This half-day symposium will address the question:
+“Is consciousness a story we tell ourselves?” by examining the
+relationship between consciousness, inner speech in humans and
+chain-of-thought reasoning in machines. Many theories of consciousness
+assume some role for internal representations, but articulate this in
+different ways: as higher-order thoughts, global workspace broadcasts,
+predictive processing hierarchies, or self-model mechanisms. However,
+language has often been treated as secondary. This is surprising:
+although language is most obviously a tool for communication, it also
+scaffolds thought and provides the structured, sequential space in
+which humans build multi-step inferences, integrate emotions with
+concepts, and carry out forms of reasoning not found elsewhere in the
+animal kingdom. Some of the structure of language may itself derive
+from spatial and causal relations encoded in internal representations;
+when formalised over discrete symbols, this internal narrative
+machinery supports inference, planning, and the construction of
+abstract models. This symposium will explore the possibility that such
+internalized linguistic processes are not merely adjuncts to cognition
+but play a constitutive role in conscious experience.
+
+Questions of consciousness have a new urgency because of the recent
+machine learning revolution. Chain-of-thought reasoning in large
+language models provides a striking parallel: models become more
+capable when they are allowed to ``talk to themselves'', producing
+extended internal sequences that guide inference. This suggests a
+manipulable model system in which we can probe the functional role of
+internal narrative; something far harder to do in humans. It also
+challenges us to either accept that machine that use chain-of-thought
+reasoning are consciousness or explain precisely why they are not
+without reaching for ill-considered ideas about embodiment. Thus
+chain-of-thought in machines and its parallel to the internal use of
+language in humans, raises timely and foundational questions about
+whether language-like internal activity is a neccessary, or even a
+sufficient, condition for consciousness.
+
+The field lacks an agreed experimental programme capable of discriminating language-centric theories of consciousness from language-minimal ones. Key questions remain unresolved. To what extent can we disrupt inner speech without fragmenting conscious experience? Do perturbations of internal language alter the qualitative structure of experience, rather than merely task performance? And can non-linguistic agents—infants, non-human animals, or artificial systems support forms of consciousness that are functionally or phenomenologically comparable to those of linguistic adults? Most importantly, are any of these questions capable of empirical resolution? What experimental programme do these questions suggest.
+
+The symposium will open with a panel discussion aimed at clarifying central concepts of consciousness and identifying core questions about the relationship between language, thought, and experience. This will be followed by a series of contributed talks presenting empirical, theoretical, and computational perspectives. A concluding panel will focus on the practical challenge of designing discriminating experiments. Its goal will be to identify a set of ``keystone'' experiments and to specify, as precisely as possible, the predictions that competing theories would make.
+
+The symposium is closely aligned with the AISB 2026 themes of Consciousness, Cognitive and Computational Neuroscience, Computational Theory of Mind, and Hybrid Human–AI. It also speaks directly to current debates about whether language models and AI systems might instantiate forms of conscious processing, and how internal narratives might be implemented in computational architectures—issues that are especially timely given the rapid evolution of large-scale language-based AI.
+
+
+*** Planned structure
+
+Session 1: panel discussion (1 hour). Is consciousness a story we tell ourselves? 
+Session 2: contributed talks (1 hour). A set of four or five short talks.
+Session 3: panel discussion (1 hour). Is consciousness an experimental question?
+
+The intended outcome is a publicly available shortlist of candidate experiments with predicted patterns of results for competing theoretical frameworks.
+
+*** Preferred length, sequels and submissions
+
+This proposal is not intended as a sequel to any previous AISB symposium; but, if successful, I hope it might become a regular symposium. Since the topic is unusual and the symposium is new, the preferred length is half a day, with three hours of activity split across a coffee break. Again, if successful, the ambition is to expand it to a full day in future.
+
+*** Organisational experience}
+
+I am currently the Turing liaison for Bristol University, as part of this role I run a fortnightly seminar series with speakers from across Europe; in addition I arrange workshops and mini-symposia, for example, the BRAID workshop (BRains, AI and Data) was a one-day workshop with a mixture of local and invited speakers. I have been running seminar series through the whole 30-year length of my academic career. In addition to a large number of local workshops and conferences, for four years I ran a satellite workshop on metric space methods in neuroscience as part of the Computational Neuroscience (CNS) conference, for two further years I co-organized a workshop on information theory at CNS. My proposed symposium includes two panel discussions, I have often taken part in panel discussions; as an example, there is a video of the ``AI for Good'' panel discussion I chaired earlier this year:
+
+https://www.youtube.com/watch?v=46HCUNSIVeQ
+
+*** Potential speakers and panellists}
+
+Ben Alderson-Day (Durham University) - Inner speech, auditory imagery, and the phenomenology of self-generated thought.
+Peter Moseley (Northumbria University) - Cognitive and neural mechanisms of inner speech and auditory verbal hallucinations.
+Simon McCarthy-Jones (Trinity College Dublin) - Psychology of inner speech, hallucinations, and self-representation.
+Kenny Smith (University of Edinburgh) - Language evolution, learning biases, and cultural transmission of linguistic structure.
+Seán G. Roberts (University College Dublin) - Cultural evolution of communication systems and the emergence of linguistic structure.
+David Carmel (University of Edinburgh) - Consciousness research focusing on perceptual awareness and attention.
+Marta Halina (University of Cambridge) - Philosophy of cognitive science and AI, especially machine cognition and artificial agency.
+Aida Nematzadeh (DeepMind) - Language learning and reasoning in humans and machines; cognitive plausibility of LLMs.
+Afra Alishahi (Tilburg University) - Computational cognitive modelling of language acquisition and neural language representations.
+Lucy O'Brien (University College London) - Philosophy of self-consciousness, self-knowledge, and agency.
